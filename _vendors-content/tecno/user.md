@@ -1,4 +1,4 @@
----
+user 
 manufacturer:
     - tecno
 
