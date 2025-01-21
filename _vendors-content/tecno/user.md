@@ -1,4 +1,4 @@
----
+error 
 manufacturer:
     - tecno
 
